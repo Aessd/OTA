@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Aessd",
+      "currently_maintained": false,
+      "oem": "OnePlus",
+      "device": "giulia",
+      "filename": "Lunaris-AOSP-giulia-Community-3.2-Gapps-2025081105.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/giulia/Lunaris-AOSP-giulia-Community-3.2-Gapps-2025081105.zip/download",
+      "timestamp": 1754889633,
+      "md5": "e40681cbdbba1d661365c2e345ca2975",
+      "sha256": "aed3c0f0455a85cce73ce0065e1eb5cf39205788dda1437514318b72cc5f365b",
+      "size": 3535784676,
+      "version": "3.2",
+      "buildtype": "user",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "sourceforge": "",
+      "initial_installation_images": []
+    }
+  ]
+}
