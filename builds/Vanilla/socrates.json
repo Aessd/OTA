@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 123,
+      "filename": "AviumUI.zip",
+      "id": "sha1",
+      "size": 123,
+      "url": "https://your.downlaod.link",
+      "version": "AviumUI-16"
+    }
+  ]
+}
